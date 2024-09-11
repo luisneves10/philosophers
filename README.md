@@ -18,7 +18,7 @@ To run the Philosophers simulation on your local machine, follow these steps:
 
 1. **Clone the Repository**:
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/luisneves10/philosophers.git
     ```
 2. **Navigate to the Project Directory**:
     ```bash
